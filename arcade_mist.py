@@ -59,7 +59,7 @@ if res:
             print('/' + core_name + '.rbf', end = '');
         print(')' + sep, end = '')
 
-        # Arcade museum link + separator
+        # Arcade museum link
         if arcade_museum_id:
             print('[' + arcade_museum_id + ']' + '(https://www.arcade-museum.com/game_detail.php?game_id=' + arcade_museum_id + ')', end = '')
 
